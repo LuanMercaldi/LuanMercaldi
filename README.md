@@ -4,11 +4,11 @@ Sou um entusiasta da ciência de dados e engenharia de dados, atualmente em tran
 
 ## 🚀 Projetos em Destaque
 
-### 1. [Previsão de Estoque Inteligente na AWS com Sagemaker Canvas](https://github.com/LuanMercaldi/Previsao-de-Estoque-Inteligente-na-AWS-com-Sagemaker-Canvas)
-Uma aplicação prática utilizando o Amazon Sagemaker Canvas para criar previsões inteligentes de estoque. Este projeto visa otimizar a cadeia de suprimentos, utilizando dados históricos e técnicas avançadas de machine learning.
+### 1. [Artigo Técnico Criado Com ChatGPT](https://github.com/LuanMercaldi/Artigo-Tecnico-Criado-Com-ChatGPT)
+Um projeto inovador onde utilizei o ChatGPT para gerar um artigo técnico. Este projeto demonstra o potencial da IA em auxiliar na criação de conteúdo especializado, combinando minha paixão por tecnologia com habilidades de escrita.
 
-### 2. [Criando um E-Book com ChatGPT & MidJourney](https://github.com/LuanMercaldi/Criando-um-Ebook-com-ChatGPT-MidJourney)
-Aqui, explorei o poder das IAs para criar um E-Book do zero. Utilizei o ChatGPT para gerar conteúdo e o MidJourney para imagens, culminando em um produto final que demonstra a interseção entre tecnologia e criatividade.
+### 2. [Lab-Natty-Or-Not](https://github.com/LuanMercaldi/lab-natty-or-not)
+Aqui, explorei o poder das IAs para criar um E-Book do zero. Utilizei o ChatGPT para gerar conteúdo e o Lexica.art para imagens, culminando em um produto final que demonstra a interseção entre tecnologia e criatividade.
 
 ## ✍️ Artigos e Reflexões
 Tenho compartilhado algumas de minhas experiências e aprendizados em plataformas como LinkedIn e DIO. Fique à vontade para conferir meus insights sobre liderança, networking, e as nuances da transição de carreira para a área de tecnologia.
