@@ -23,4 +23,24 @@ Estou constantemente aprendendo e aprimorando minhas habilidades. Alguns dos cur
 ## 💬 Vamos Conversar?
 Se você está interessado em discutir IA, projetos de ciência de dados, ou até mesmo trocar uma ideia sobre a transição de carreira, sinta-se à vontade para me contatar!
 
-[LinkedIn](https://www.linkedin.com/in/luan-mercaldi-88080890/) | [GitHub](https://github.com/LuanMercaldi) | [DIO](https://www.dio.me/users/luanwp)
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/445d5b33-1db7-4cb4-a54b-a11a691de257"
+    />
+    <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://www.dio.me/users/luanwp">
+    DIO</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luan-willian-ponchio-mercaldi-88080890/">LinkedIn</a>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
