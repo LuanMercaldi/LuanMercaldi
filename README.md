@@ -4,8 +4,8 @@ Sou um entusiasta da ciência de dados e engenharia de dados, atualmente em tran
 
 ## 🚀 Projetos em Destaque
 
-### 1. [Artigo Técnico Criado Com ChatGPT](https://github.com/LuanMercaldi/Artigo-Tecnico-Criado-Com-ChatGPT)
-Um projeto inovador onde utilizei o ChatGPT para gerar um artigo técnico. Este projeto demonstra o potencial da IA em auxiliar na criação de conteúdo especializado, combinando minha paixão por tecnologia com habilidades de escrita.
+### 1. [DocuMentor](https://github.com/LuanMercaldi/DocuMentor)
+DocuMentor é um copiloto criado para auxiliar em minha jornada acadêmica no curso de Despachante Documentalista. Com um tom formal e didático, o DocuMentor atua como um tutor dedicado, fornecendo explicações claras, revisando conceitos fundamentais e orientando nas atividades práticas da profissão. Ele está sendo projetado para atender tanto iniciantes na área quanto estudantes com algum conhecimento que buscam aperfeiçoamento.
 
 ### 2. [Lab-Natty-Or-Not](https://github.com/LuanMercaldi/lab-natty-or-not)
 Aqui, explorei o poder das IAs para criar um E-Book do zero. Utilizei o ChatGPT para gerar conteúdo e o Lexica.art para imagens, culminando em um produto final que demonstra a interseção entre tecnologia e criatividade.
