@@ -16,9 +16,9 @@ Tenho compartilhado algumas de minhas experiências e aprendizados em plataforma
 ## 📚 Formação e Certificações
 Estou constantemente aprendendo e aprimorando minhas habilidades. Alguns dos cursos e certificações mais recentes incluem:
 
-- **Como se tornar uma Liderança** - DIO
-- **Engenharia de Prompt: Potencializando o Uso de IA Generativa na Prática** - DIO
-- **GitHub Copilot Como Assistente de Programação** - DIO
+- **Certificado DIO Campus Expert - T09** - DIO
+- **Criando um Personal Trainer IA com Boas Práticas de Prompt Engineer** - DIO
+- **Otimize Seus Prompts e Aprenda Mais Usando IAs Generativas** - DIO
 
 ## 💬 Vamos Conversar?
 Se você está interessado em discutir IA, projetos de ciência de dados, ou até mesmo trocar uma ideia sobre a transição de carreira, sinta-se à vontade para me contatar!
