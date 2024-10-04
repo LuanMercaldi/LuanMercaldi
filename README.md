@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Luan Mercaldi!
 
-Sou um entusiasta da ciência de dados e engenharia de dados, atualmente em transição de carreira para explorar as maravilhas da inteligência artificial e machine learning. Minha jornada começou com uma sólida experiência em Despacho Documentalista, onde desenvolvi habilidades analíticas e resolvi problemas complexos diariamente.
+Sou um entusiasta da ciência de dados e engenharia de dados, atualmente em transição de carreira para explorar as maravilhas da inteligência artificial e machine learning. Minha jornada começou com uma sólida experiência como Despachante Documentalista, onde desenvolvi habilidades analíticas e resolvi problemas complexos diariamente.
 
 ## 🚀 Projetos em Destaque
 
