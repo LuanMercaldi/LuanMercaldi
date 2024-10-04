@@ -4,11 +4,11 @@ Sou um entusiasta da ciência de dados e engenharia de dados, atualmente em tran
 
 ## 🚀 Projetos em Destaque
 
-### 1. [DocuMentor](https://github.com/LuanMercaldi/DocuMentor)
-DocuMentor é um copiloto criado para auxiliar em minha jornada acadêmica no curso de Despachante Documentalista. Com um tom formal e didático, o DocuMentor atua como um tutor dedicado, fornecendo explicações claras, revisando conceitos fundamentais e orientando nas atividades práticas da profissão. Ele está sendo projetado para atender tanto iniciantes na área quanto estudantes com algum conhecimento que buscam aperfeiçoamento.
+### 1. [🤖 Personal Trainer Virtual](https://github.com/LuanMercaldi/-Criando-um-Personal-Trainer-IA-com-Boas-Praticas-de-Prompt-Engineer)
+Esse bot foi desenvolvido como parte de um desafio de Prompt Engineer e vai ajudar você a criar treinos personalizados com base nas suas respostas a algumas perguntas rápidas e simples. Vamos nessa? 💪 
 
-### 2. [Lab-Natty-Or-Not](https://github.com/LuanMercaldi/lab-natty-or-not)
-Aqui, explorei o poder das IAs para criar um E-Book do zero. Utilizei o ChatGPT para gerar conteúdo e o Lexica.art para imagens, culminando em um produto final que demonstra a interseção entre tecnologia e criatividade.
+### 2. [DocuMentor](https://github.com/LuanMercaldi/DocuMentor)
+DocuMentor é um copiloto criado para auxiliar em minha jornada acadêmica no curso de Despachante Documentalista. Com um tom formal e didático, o DocuMentor atua como um tutor dedicado, fornecendo explicações claras, revisando conceitos fundamentais e orientando nas atividades práticas da profissão. Ele está sendo projetado para atender tanto iniciantes na área quanto estudantes com algum conhecimento que buscam aperfeiçoamento.
 
 ## ✍️ Artigos e Reflexões
 Tenho compartilhado algumas de minhas experiências e aprendizados em plataformas como LinkedIn e DIO. Fique à vontade para conferir meus insights sobre liderança, networking, e as nuances da transição de carreira para a área de tecnologia.
